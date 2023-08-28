@@ -30,7 +30,7 @@ public class Ex4 {
      * @return returns the entered number n
      * @apiNote method for entering number n
      */
-    private static int getN() {
+    public static int getN() {
         System.out.print("Enter Fibonacci Number: ");
         Scanner scanner = new Scanner(System.in);
         return scanner.nextInt();

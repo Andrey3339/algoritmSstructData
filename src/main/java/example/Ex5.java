@@ -30,10 +30,8 @@ public class Ex5 {
         long num = 0;
         long n1 = 1;
         long n2 = 1;
-        if (n == 1)
+        if (n <= 2)
             return 1;
-        if (n == 2)
-            return 2;
         for (int i = 3; i <= n; i++) {
             num = n2 + n1;
             n1 = n2;
@@ -46,7 +44,7 @@ public class Ex5 {
      * @return returns the entered number n
      * @apiNote method for entering number n
      */
-    private static int getN() {
+    public static int getN() {
         System.out.print("Enter Fibonacci Number: ");
         Scanner scanner = new Scanner(System.in);
         return scanner.nextInt();
