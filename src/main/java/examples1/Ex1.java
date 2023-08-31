@@ -4,7 +4,7 @@
 линейно изменяться относительно изменения размера N
  */
 
-package example;
+package examples1;
 
 import java.util.Scanner;
 

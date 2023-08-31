@@ -9,7 +9,7 @@
 не приходилось вычислять заново, как это происходило при рекурсивном методе.
  */
 
-package example;
+package examples1;
 
 import java.util.Scanner;
 

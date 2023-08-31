@@ -4,7 +4,7 @@
 начнутся уже с 40 члена последовательности.
  */
 
-package example;
+package examples1;
 
 public class Ex6 {
     public static void main(String[] args) {

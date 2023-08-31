@@ -4,7 +4,7 @@
 на этом стоит акцентировать внимание.
  */
 
-package example;
+package examples1;
 
 import java.util.Scanner;
 

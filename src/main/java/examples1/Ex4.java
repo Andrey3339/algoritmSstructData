@@ -4,7 +4,7 @@
 3. Искать будем по формуле On=On-1+On-2 что предполагает использовать рекурсивного алгоритма.
  */
 
-package example;
+package examples1;
 
 import java.util.Scanner;
 
